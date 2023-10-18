@@ -1,0 +1,8 @@
+keras-vggface
+scikit-learn
+streamlit
+Pillow
+opencv-python
+mtcnn
+numpy
+tqdm
